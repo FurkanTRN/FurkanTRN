@@ -15,6 +15,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=FurkanTRN&show_icons=true&locale=en" alt="FurkanTRN" /></p>
 
 
-<!--START_SECTION:activity-->
-<!--END_SECTION:activity-->
 
