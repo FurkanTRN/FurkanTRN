@@ -2,7 +2,7 @@
 
 </p>
 <h1 align="center">Hi 👋, I'm Furkan</h1>
- <img width="30%" align="right" alt="dev.daily" src="https://github.com/FurkanTRN/FurkanTRN/blob/main/devcard.svg" />
+ <img width="30%" align="right" alt="dev.daily" src="devcard.svg" />
 <p>🎓 I am currently pursuing my **Bachelor's in Computer Engineering**.</p> <br>
 <p>🌱 I am currently learning **C#** and also interested in **Node.js**.</p><br>
 <p>🎯 My Goal is to Contribute to as many **open source project** as possible.</p><br>
