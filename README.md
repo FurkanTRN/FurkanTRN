@@ -15,7 +15,7 @@
 
 [![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/furkantrn/)
 [![https://www.hackerrank.com/Furkantrn](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/Furkantrn)
- []
+ 
 
 </p>
 
