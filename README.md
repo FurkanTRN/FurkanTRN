@@ -7,7 +7,7 @@ Backend Developer
 
 * 🌍  I'm based in Turkey
 * ✉️  You can contact me at [contact.furkantrn@gmail.com](mailto:contact.furkantrn@gmail.com)
-* 🧠  I'm learning Flutter & Dart
+* 🧠  I'm learning .Net & ReactJS
 
 ### Skills
 
