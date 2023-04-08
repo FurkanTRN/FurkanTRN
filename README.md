@@ -5,7 +5,7 @@
 <h3 align="center"> 
 - I'm computer engineering student <br><br>
 - Currently learning .NET (Backend) & Python (AI) & ReactJS (Frontend) <br><br>
-- I'm intrested in Embedded Systems like Arduino <br><br>
+- I'm interested in Embedded Systems like Arduino <br><br>
 - Looking for opportunities to join as an intern/full time job <br><br>
  <p align="center">   
 - My blog posts <a href="https://www.kodbilimi.com/yazar/furkan-torun-12">here</a>
