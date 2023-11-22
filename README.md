@@ -15,5 +15,5 @@
 <div align="center">
 
   <a href="mailto:contact.furkantrn@gmail.com">![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a>
-  <a href="https://linkedin.com/in/furkantrn">![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)</a><br><br>  
+  <a href="https://linkedin.com/in/frkntrn">![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)</a><br><br>  
 </div>
