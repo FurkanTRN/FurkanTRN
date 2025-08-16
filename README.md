@@ -12,6 +12,6 @@ All of my active projects and documentation are now hosted on my **self-hosted G
 
 <br/><br/>
 
-> Direct link: <a href="https://repository.furkantrn.com/FurkanTRN" target="_blank" rel="noopener noreferrer">https://repository.furkantrn.com</a>
+> Direct link: <a href="https://repository.furkantrn.com/FurkanTRN" target="_blank" rel="noopener noreferrer">https://repository.furkantrn.com/FurkanTRN</a>
 
 </div>
