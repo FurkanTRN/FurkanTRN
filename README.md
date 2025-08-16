@@ -6,12 +6,12 @@ All of my active projects and documentation are now hosted on my **self-hosted G
 
 <br/>
 
-<a href="https://repository.furkantrn.com" target="_blank" rel="noopener noreferrer">
+<a href="[https://repository.furkantrn.com](https://repository.furkantrn.com/FurkanTRN)" target="_blank" rel="noopener noreferrer">
   <img src="https://img.shields.io/badge/Gitea-repository.furkantrn.com-609926?logo=gitea&logoColor=white&style=for-the-badge" alt="Gitea">
 </a>
 
 <br/><br/>
 
-> Direct link: **https://repository.furkantrn.com**
+> Direct link: **[https://repository.furkantrn.com](https://repository.furkantrn.com/FurkanTRN)**
 
 </div>
