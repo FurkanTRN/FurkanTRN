@@ -1,17 +1,17 @@
-<div id="header" align="center">
-  <img src="https://media3.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?" width="300"/>
-</div>
-
-
 <div align="center">
 
-##  Tech Stack
+# 🚀 Projects moved to Gitea
 
-[![My Skills](https://skillicons.dev/icons?i=nodejs,html,css,react,arduino,cs,dotnet,visualstudio,vscode,linux)](https://skillicons.dev)
+All of my active projects and documentation are now hosted on my **self-hosted Gitea instance**.
 
+<br/>
 
-## Quote
+<a href="https://repository.furkantrn.com" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.shields.io/badge/Gitea-repository.furkantrn.com-609926?logo=gitea&logoColor=white&style=for-the-badge" alt="Gitea">
+</a>
 
-[![random quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
+<br/><br/>
+
+> Direct link: **https://repository.furkantrn.com**
 
 </div>
